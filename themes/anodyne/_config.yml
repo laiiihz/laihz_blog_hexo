@@ -1,0 +1,59 @@
+# Logo
+logo_image_source: http://www.codeblocq.com/assets/projects/hexo-theme-anodyne/assets/anodyne.svg
+
+# Index Page
+index_banner_text: Welcome to Laihz's Blog
+index_banner_text_secondary: Make it Lite
+index_font_awesome_icon_css: fa fa-magic material-icons
+
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about.html
+  Contact: /contact.html
+
+# Post
+default_post_title: Untitled
+default_post_icon: fa-file-text-o
+
+# Archive Date Format
+archive_date_format: MMM YYYY
+archive_font_awesome_icon_css: fa-folder-open
+
+# About Widget
+about_widget_avatar_url: https://avatars0.githubusercontent.com/u/35956195?s=460&v=4
+about_widget_text: "Laiiihz"
+
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname: 
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Media Platforms
+social_platforms:
+  - url: https://twitter.com/?lang=en
+    fa_icon: fa-user-o
+  - url: https://www.facebook.com/
+    fa_icon: fa-facebook
+  - url: https://dribbble.com/
+    fa_icon: fa-dribbble 
+  - url: https://github.com/klugjo/hexo-theme-anodyne
+    fa_icon: fa-github
+  - url: https://plus.google.com/
+    fa_icon: fa-google-plus
+  - url: https://www.behance.net/
+    fa_icon: fa-behance
+  - url: https://500px.com/
+    fa_icon: all_out
+  - url: mailto:test@example.com
+    fa_icon: fa-envelope
+  - url: /#
+    fa_icon: fa-rss
+
+# Footer about
+footer_about: "@Untitled. All right reserved | Design & Hexo <a class=\"link dim white\" href=\"http://www.codeblocq.com/\">Jonathan Klughertz</a>"
